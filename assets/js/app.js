@@ -69,6 +69,6 @@ function reiniciarEscopo() {
     }
 
     atualizarNumeros();
-const nome = 'Ane';
+
     document.body.addEventListener('click', atualizarNumeros); // evento de clique para atualizar os números
 })();
