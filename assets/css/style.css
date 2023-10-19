@@ -78,6 +78,7 @@ header{
   }
   button {
     max-width:300px;
+    max-height: 0.8em;
   }
 }
 
