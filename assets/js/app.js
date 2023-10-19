@@ -69,6 +69,7 @@ function reiniciarEscopo() {
     }
 
     atualizarNumeros();
+    const botao = document.querySelector('.botao');
+    botao.addEventListener('click', atualizarNumeros);
 
-    
 })();
