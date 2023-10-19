@@ -69,6 +69,6 @@ function reiniciarEscopo() {
     }
 
     atualizarNumeros();
-
+    document.body.addEventListener('Nova Sequência', atualizarNumeros);
 
 })();
