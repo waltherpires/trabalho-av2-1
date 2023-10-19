@@ -70,5 +70,5 @@ function reiniciarEscopo() {
 
     atualizarNumeros();
 
-    document.body.addEventListener('Nova Sequência', atualizarNumeros); // evento de clique para atualizar os números
+    
 })();
